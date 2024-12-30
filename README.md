@@ -47,8 +47,9 @@
 ### 1. **필수 소프트웨어**
 - **운영체제**: Ubuntu 22.04
 - **ROS2**: Humble
-- **CARLA Simulator**: 0.9.4 (Map : Town 10)
-
+- **CARLA Simulator**: 0.9.4 
+- Map : Town 10
+![alt text](map.png)
 
 ### 2. **설치 필요**
 ```bash
